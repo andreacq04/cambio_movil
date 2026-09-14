@@ -1,13 +1,13 @@
 # cambio_movil
-##copiar toda la carpeta "create_project" y "my_proyect"
+##copiar toda la carpeta "create_project", "my_proyect",  "home" y "shared_projects"
 
-commit "crear proyecto"
+commit "ver el proyecto en explorar"
 
-descripción "se conecto crear proyecto con my proyecto y se hizo el paso a paso de como crear un proyecto
+descripción "se conecto home con, crear proyecto, despues con mi proyecto y de ultimo shered_projects"
 
 ##cambios en archivos 
 
-main.dart, pubspec.yamal
+main.dart
 
 commit "cambio"
 
